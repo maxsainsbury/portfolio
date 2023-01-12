@@ -1,1 +1,12 @@
-this is a project to make a portfolio website for myself to use
+# Portfolio Project
+
+This is the source code for my portfolio website. I built this to showcase what I've been working on.
+
+## Built with
+
+* HTML
+* CSS
+* Javascript
+
+## Demo
+
